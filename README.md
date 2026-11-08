@@ -15,34 +15,33 @@ I'm a 3rd-year Computer Science Engineering student specializing in Artificial I
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-
-
-
-\
-
+### 💻 Programming Languages
+- HTML5
+- CSS3
+- JavaScript
+- Python
 
 ### 🎨 Frontend Development
-
-
-
-\
-
+- HTML
+- CSS
+- JavaScript
+- React.js (Currently Learning)
 
 ### 🤖 AI Tools
-
-
-\
-
+- ChatGPT
+- Google Gemini
+- Claude
 
 ### ⚙️ Developer Tools
+- Git
+- GitHub
+- Visual Studio Code
 
-
-\
-
-
----
-
+### 🚀 Areas of Interest
+- Frontend Development
+- Artificial Intelligence & Machine Learning
+- AI Tools & Integration
+- Workflow Automation
 ## 🚀 Featured Projects
 
 ### 1. 🌐 Personal Portfolio
