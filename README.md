@@ -68,17 +68,7 @@ An enhanced Snake Game project featuring AI-assisted development, improved styli
 
 🔗 [View Project](https://shivamgalar.github.io/Ai-Snake-Game/)
 
----
 
-## 📊 GitHub Stats
-
-
-
-
-
-
-
----
 
 ## 🤝 Connect With Me
 
